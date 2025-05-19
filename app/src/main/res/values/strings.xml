@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Book Tracker</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_add">Add Book</string>
+    <string name="nav_search">Search</string>
+    <string name="add_book_success">Book added successfully</string>
+    <string name="enter_book_title">Please enter the book title</string>
+    <string name="enter_author_name">Please enter the author name</string>    
+    <string name="search_hint">Search for a book</string>
+    <string name="search_error">Failed to fetch books</string>
+</resources>
