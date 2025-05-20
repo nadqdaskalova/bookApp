@@ -63,7 +63,7 @@ BookApp is ideal for:
 
 ## Getting Started
 
-1. **Install the App**: Follow the installation instructions provided in the [Installation Guide](#installation).
+1. **Install the App**
 2. **Explore the Features**: Use the navigation bar to explore the app's features.
 3. **Start Saving Books**: Add books to your collection and enjoy the convenience of having your reading list in one place.
 
